@@ -1,0 +1,12 @@
+1. Please download my files as a whole (zipfile) and then extract the zipfile.
+    I believe that this will allow my codes to work properly on your end. If it does not, please let me know.
+
+2. I have attached export.csv file, which was created by my code on my end.
+   You may want to delete export.csv file to verify if my codes work properly
+   (But even if you do not delete it, you can verify whether my codes work or not because export.csv file will be automatically updated and you can check it 
+     by looking at the modified date information).
+
+3. In your instructions, you mentioned "The selection becomes effective close of business on the first business date of each month".
+    My understanding is that the newly selected top 3 stocks are reflected in the index on every first business date of each month and I wrote codes based on 
+    this understanding. However, if my understanding is wrong and the top 3 stocks selection update is reflected the next day, I can modify the code immediately 
+    (please let me know).
